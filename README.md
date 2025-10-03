@@ -10,7 +10,7 @@ Objectifs du TD
 
 --> Données disponibles ici: https://seafile.unistra.fr/d/e17895ef406840eb9b23/
 
---> Site internet stations hydrométriques France : https://hubeau.eaufrance.fr/sites/default/files/api/demo/hydro_tr.htm
+--> Site internet pour accéder à la visualisation en temps réel des débits et hauteurs d'eau mesurés aux stations hydrométriques : https://hubeau.eaufrance.fr/sites/default/files/api/demo/hydro_tr.htm
 
  
 
